@@ -4,6 +4,8 @@
 
 A full data project: a scraper for the public catalog of [sulpak.kg](https://www.sulpak.kg), cleaning and feature extraction with pandas, an analysis notebook, and an interactive Streamlit dashboard.
 
+[![Open the live dashboard](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sulpak-price-analysis.streamlit.app) **Live dashboard:** https://sulpak-price-analysis.streamlit.app
+
 **Dataset:** 1,937 product listings, 7 categories (smartphones, laptops, headphones, tablets, smartwatches, fridges, washing machines), snapshot of **19 Nov 2026**.
 
 <p align="center"><img src="images/dashboard.png" width="85%" alt="Streamlit dashboard" /></p>
